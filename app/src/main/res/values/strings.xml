@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cardgame</string>
+    <string name="player1_choice_text" />
+    <string name="game_result_text" />
+    <string name="button_result" />
+    <string name="player2_choice_text" />
+    <string name="button_player2" />
+    <string name="button_player1" />
+    <string name="welcome_text" />
+    <string name="rules_text" />
+    <string name="enter_button" />
+    <string name="rules_title" />
+</resources>
